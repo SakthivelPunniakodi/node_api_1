@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "server": "testing-icorrectproof-dbserver.database.windows.net",
+        "user": "icorrectproofadmin",
+        "password": "I9c3p559",
+        "database": "PearsonSVC"
+    },
+    "test": {
+        "server": "testing-icorrectproof-dbserver.database.windows.net",
+        "user": "icorrectproofadmin",
+        "password": "I9c3p559",
+        "database": "PearsonSVC_test"
+    },
+    "live": {
+        "server": "",
+        "user": "",
+        "password": "$",
+        "database": ""
+    }
+}
